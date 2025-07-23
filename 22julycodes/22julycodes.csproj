@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_22julycodes.BoxEmploy</StartupObject>
+    <StartupObject>_22julycodes.Milestone2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,8 +55,13 @@
     <Compile Include="Case2.cs" />
     <Compile Include="CircleArea.cs" />
     <Compile Include="CtoF.cs" />
+    <Compile Include="Fact2.cs" />
+    <Compile Include="Fctor.cs" />
     <Compile Include="IfElseLadder.cs" />
+    <Compile Include="Max3.cs" />
     <Compile Include="Maximum3.cs" />
+    <Compile Include="Milestone1.cs" />
+    <Compile Include="Milestone2.cs" />
     <Compile Include="PosNeg.cs" />
     <Compile Include="practice.cs" />
     <Compile Include="Program.cs" />
