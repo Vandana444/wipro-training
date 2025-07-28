@@ -1,0 +1,7 @@
+C:\wipro\Day1\july23\ShadowEx\bin\Debug\ShadowEx.exe.config
+C:\wipro\Day1\july23\ShadowEx\bin\Debug\ShadowEx.exe
+C:\wipro\Day1\july23\ShadowEx\bin\Debug\ShadowEx.pdb
+C:\wipro\Day1\july23\ShadowEx\obj\Debug\ShadowEx.csproj.AssemblyReference.cache
+C:\wipro\Day1\july23\ShadowEx\obj\Debug\ShadowEx.csproj.CoreCompileInputs.cache
+C:\wipro\Day1\july23\ShadowEx\obj\Debug\ShadowEx.exe
+C:\wipro\Day1\july23\ShadowEx\obj\Debug\ShadowEx.pdb
