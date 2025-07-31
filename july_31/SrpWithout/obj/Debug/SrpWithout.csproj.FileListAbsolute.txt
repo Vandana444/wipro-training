@@ -1,0 +1,7 @@
+C:\wipro\Day10\SrpWithout\bin\Debug\SrpWithout.exe.config
+C:\wipro\Day10\SrpWithout\bin\Debug\SrpWithout.exe
+C:\wipro\Day10\SrpWithout\bin\Debug\SrpWithout.pdb
+C:\wipro\Day10\SrpWithout\obj\Debug\SrpWithout.csproj.AssemblyReference.cache
+C:\wipro\Day10\SrpWithout\obj\Debug\SrpWithout.csproj.CoreCompileInputs.cache
+C:\wipro\Day10\SrpWithout\obj\Debug\SrpWithout.exe
+C:\wipro\Day10\SrpWithout\obj\Debug\SrpWithout.pdb
