@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wipro\\Day9\\CoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\pages\\employeeshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\employeeshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\pages\\employeeshow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\employeeshow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\coredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\coredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|c:\\wipro\\day9\\coredemo\\coredemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6401AE22-46BA-4C16-9E74-46BBFB45DAF6}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeShow.cshtml.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "RelativeToolTip": "CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:14:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeShow.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\EmployeeShow.cshtml",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml*",
+              "RelativeToolTip": "CoreDemo\\Pages\\EmployeeShow.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T01:13:28.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "CoreDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:10:52.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoreDemo",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+              "RelativeDocumentMoniker": "CoreDemo\\CoreDemo.csproj",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+              "RelativeToolTip": "CoreDemo\\CoreDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T01:08:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wipro.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\Wipro.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\Wipro.cshtml",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\Wipro.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\Wipro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T00:49:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "CoreDemo\\Pages\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T00:48:37.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T00:48:03.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\wipro\\Day9\\CoreDemo\\CoreDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T00:47:51.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

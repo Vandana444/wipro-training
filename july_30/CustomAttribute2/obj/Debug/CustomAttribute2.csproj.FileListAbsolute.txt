@@ -1,0 +1,7 @@
+C:\wipro\Day9\CustomAttribute2\obj\Debug\CustomAttribute2.csproj.AssemblyReference.cache
+C:\wipro\Day9\CustomAttribute2\obj\Debug\CustomAttribute2.csproj.CoreCompileInputs.cache
+C:\wipro\Day9\CustomAttribute2\bin\Debug\CustomAttribute2.exe.config
+C:\wipro\Day9\CustomAttribute2\bin\Debug\CustomAttribute2.exe
+C:\wipro\Day9\CustomAttribute2\bin\Debug\CustomAttribute2.pdb
+C:\wipro\Day9\CustomAttribute2\obj\Debug\CustomAttribute2.exe
+C:\wipro\Day9\CustomAttribute2\obj\Debug\CustomAttribute2.pdb
