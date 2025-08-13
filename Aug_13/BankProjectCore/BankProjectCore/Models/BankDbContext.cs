@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System.Diagnostics;
 
 namespace BankProjectCore.Models
 {
@@ -20,11 +19,13 @@ namespace BankProjectCore.Models
         {
             modelBuilder.Entity<Account>().ToTable("Account");
             modelBuilder.Entity<Trans>().ToTable("Trans");
-
+            modelBuilder.Entity<Login>().ToTable("Login");
         }
 
         public DbSet<Account> Accounts { get; set; }
         public DbSet<Trans> Trans { get; set; }
+
+        public DbSet<Login> Logins { get; set; }
 
     }
 }
