@@ -3,8 +3,61 @@
   "WorkspaceRootPath": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5D169B1-5253-4557-AFE8-6434298028F9}|..\\..\\Aug_14\\LmsProject\\LmsProject.csproj|c:\\users\\maddi\\wipro-training\\aug_14\\lmsproject\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D169B1-5253-4557-AFE8-6434298028F9}|..\\..\\Aug_14\\LmsProject\\LmsProject.csproj|c:\\users\\maddi\\wipro-training\\aug_14\\lmsproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D169B1-5253-4557-AFE8-6434298028F9}|..\\..\\Aug_14\\LmsProject\\LmsProject.csproj|c:\\users\\maddi\\wipro-training\\aug_14\\lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D169B1-5253-4557-AFE8-6434298028F9}|..\\..\\Aug_14\\LmsProject\\LmsProject.csproj|c:\\users\\maddi\\wipro-training\\aug_14\\lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D169B1-5253-4557-AFE8-6434298028F9}|..\\..\\Aug_14\\LmsProject\\LmsProject.csproj|c:\\users\\maddi\\wipro-training\\aug_14\\lmsproject\\models\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D169B1-5253-4557-AFE8-6434298028F9}|..\\..\\Aug_14\\LmsProject\\LmsProject.csproj|c:\\users\\maddi\\wipro-training\\aug_14\\lmsproject\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D169B1-5253-4557-AFE8-6434298028F9}|..\\..\\Aug_14\\LmsProject\\LmsProject.csproj|c:\\users\\maddi\\wipro-training\\aug_14\\lmsproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\middlewear\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middlewear\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\middlewear\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middlewear\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\middlewear\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middlewear\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,38 +70,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\middlewear\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middlewear\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\middlewear\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middlewear\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\middlewear\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middlewear\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|c:\\users\\maddi\\wipro-training\\aug_13\\bankprojectcore\\bankprojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE3C41EB-6B80-4B58-AE7B-FD64AA583BEA}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,32 +84,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LeaveHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Aug_14\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeToolTip": "..\\..\\Aug_14\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:43:57.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Aug_14\\LmsProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "..\\..\\Aug_14\\LmsProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:42:38.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Aug_14\\LmsProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Program.cs",
+              "RelativeToolTip": "..\\..\\Aug_14\\LmsProject\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwDEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:41:13.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\Aug_14\\LmsProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\appsettings.json",
+              "RelativeToolTip": "..\\..\\Aug_14\\LmsProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T10:40:23.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Aug_14\\LmsProject\\Models\\LmsDbContext.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeToolTip": "..\\..\\Aug_14\\LmsProject\\Models\\LmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:39:57.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeDocumentMoniker": "..\\..\\Aug_14\\LmsProject\\Models\\LeaveHistory.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeToolTip": "..\\..\\Aug_14\\LmsProject\\Models\\LeaveHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:39:25.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\..\\Aug_14\\LmsProject\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_14\\LmsProject\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\..\\Aug_14\\LmsProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:38:50.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LoginsController.cs",
               "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs",
               "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\LoginsController.cs",
               "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs",
               "RelativeToolTip": "BankProjectCore\\Controllers\\LoginsController.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwHoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T10:13:23.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
-              "RelativeToolTip": "BankProjectCore\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T10:11:49.334Z",
+              "WhenOpened": "2025-08-13T07:16:15.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Trans.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:18:37.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:15:41.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "SendMail.cs",
               "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Middlewear\\SendMail.cs",
               "RelativeDocumentMoniker": "BankProjectCore\\Middlewear\\SendMail.cs",
@@ -107,14 +245,27 @@
               "RelativeDocumentMoniker": "BankProjectCore\\Middlewear\\EncryptionHelper.cs",
               "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Middlewear\\EncryptionHelper.cs",
               "RelativeToolTip": "BankProjectCore\\Middlewear\\EncryptionHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T10:09:13.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Middlewear\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middlewear\\DecryptionHelper.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Middlewear\\DecryptionHelper.cs",
+              "RelativeToolTip": "BankProjectCore\\Middlewear\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:08:24.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Program.cs",
               "RelativeDocumentMoniker": "BankProjectCore\\Program.cs",
@@ -127,59 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BankDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
-              "RelativeDocumentMoniker": "BankProjectCore\\Models\\BankDbContext.cs",
-              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
-              "RelativeToolTip": "BankProjectCore\\Models\\BankDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:16:15.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BankCustomController.cs",
-              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
-              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\BankCustomController.cs",
-              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
-              "RelativeToolTip": "BankProjectCore\\Controllers\\BankCustomController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAYwFcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:17:43.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "BankProjectCore\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAYwGoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:17:04.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DecryptionHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Middlewear\\DecryptionHelper.cs",
-              "RelativeDocumentMoniker": "BankProjectCore\\Middlewear\\DecryptionHelper.cs",
-              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Middlewear\\DecryptionHelper.cs",
-              "RelativeToolTip": "BankProjectCore\\Middlewear\\DecryptionHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T10:08:24.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\appsettings.json",
               "RelativeDocumentMoniker": "BankProjectCore\\appsettings.json",
@@ -192,27 +291,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Trans.cs",
-              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
-              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Trans.cs",
-              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
-              "RelativeToolTip": "BankProjectCore\\Models\\Trans.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:18:37.663Z"
+              "WhenOpened": "2025-08-13T10:11:49.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Account.cs",
-              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
-              "RelativeToolTip": "BankProjectCore\\Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:15:41.303Z"
+              "WhenOpened": "2025-08-13T07:17:04.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BankCustomController.cs",
+              "DocumentMoniker": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ToolTip": "C:\\Users\\Maddi\\wipro-training\\Aug_13\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:17:43.699Z",
+              "EditorCaption": ""
             }
           ]
         }
